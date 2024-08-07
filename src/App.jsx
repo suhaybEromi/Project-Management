@@ -45,7 +45,6 @@ function App() {
     });
   }
 
-  //TODO: The first way.
   function handleStartAddProject() {
     setProjectsState(prevState => {
       return {
